@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="logo.jpg" alt="Pro Movies logo">
+  <img src="logo.jpg" alt="Pro Movies Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>Pro Moviez Bot</b>
 </h1>
 
 
