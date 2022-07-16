@@ -52,7 +52,8 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sdxyz/group_e1)
 
 <details><summary>Deploy To Heroku</summary>
 <p>
@@ -70,7 +71,7 @@ git clone https://github.com/EvamariaTG/evamaria
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
-python3 bot.py
+
 </pre>
 </p>
 </details>
