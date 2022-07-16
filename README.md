@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="Logo😎">
+  <img src="logo.jpg" alt="Xyz">
 </p>
 <h1 align="center">
   <b>Eva Maria Bot</b>
