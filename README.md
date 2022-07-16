@@ -53,7 +53,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 You can deploy this bot anywhere.
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sdxyz/group_e1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sydxyz /group_e1)
 
 <details><summary>Deploy To Heroku</summary>
 <p>
