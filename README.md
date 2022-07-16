@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="Xyz">
+  <img src="logo.jpg" alt="Pro Movies logo">
 </p>
 <h1 align="center">
   <b>Eva Maria Bot</b>
