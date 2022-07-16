@@ -409,7 +409,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🤖 Updates', url='https://t.me/mod_Moviezx')
         ], [
-            InlineKeyboardButton('😎 Bot', url='https://t.me/movie_2022_NT_bot')
+            InlineKeyboardButton('😎 Bot', url='https://t.me/movie_2022_NT_bot'),
+            InlineKeyboardButton('🪅 Group', url='https://t.me/syd_xyz')
         ], [
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
