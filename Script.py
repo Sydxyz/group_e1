@@ -9,7 +9,7 @@ Created By <a href=https://t.me/syd_xyz>Mr. SYD😎</a>"""
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href=https://t.me/Parallel_Cinemas> Uploaded Channel</a>
-✯ 𝚄𝚙𝚍𝚊𝚝𝚎𝚜 : <a href=https://t.me/Mod_Moviezx
+✯ 𝚄𝚙𝚍𝚊𝚝𝚎𝚜 : <a href=https://t.me/Mod_Moviezx>Mod🦍</a>
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
