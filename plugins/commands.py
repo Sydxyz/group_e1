@@ -48,7 +48,7 @@ async def start(client, message):
             InlineKeyboardButton('🤖 Updates', url='https://t.me/Mod_moviezx')
             ],[
             InlineKeyboardButton('😎 Bot', url='https://t.me/movie_2022_NT_bot'),
-            InlineKeyboardButton('🪅 Group', url='https://t.me/syd_xyz')
+            InlineKeyboardButton('🪅 Group', url='https://t.me/malayalam_requester_bot')
             ],[
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
@@ -98,7 +98,7 @@ async def start(client, message):
             InlineKeyboardButton('🤖 Updates', url='https://t.me/Mod_Moviezx')
             ],[
             InlineKeyboardButton('😎 Bot', url='https://t.me/movie_2022_NT_bot'),
-            InlineKeyboardButton('🪅 Group', url='https://t.me/syd_xyz')
+            InlineKeyboardButton('🪅 Group', url='https://t.me/malayalam_requester_bot')
             ],[
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
