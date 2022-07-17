@@ -44,7 +44,7 @@ Created By <a href=https://t.me/syd_xyz>Mr. SYD😎</a>"""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https://t.me/Modmoviez)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -70,6 +70,7 @@ Created By <a href=https://t.me/syd_xyz>Mr. SYD😎</a>"""
 • /connections - <code>list all your connections</code>"""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
+
 <b>NOTE:</b>
 these are the extra features of Eva Maria
 
@@ -77,9 +78,9 @@ these are the extra features of Eva Maria
 • /id - <code>get id of a specified user.</code>
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
-• /search  - <code>get the film information from various sources.</code>"""
+• /search  - <code>get the film information from various sources.</code>
+• By <a href=https://t.me/Pro_Moviez_Bot>🛡 Pro Moviez 🛡</a>"""
     ADMIN_TXT = """Help: <b>Admin mods</b>
-
 <b>NOTE:</b>
 This module only works for my admins
 
@@ -94,7 +95,8 @@ This module only works for my admins
 • /ban  - <code>to ban a user.</code>
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
-• /broadcast - <code>to broadcast a message to all users</code>"""
+• /broadcast - <code>to broadcast a message to all users</code>
+• By <a href=https://t.me/Pro_Moviez_Bot>🛡 Pro Moviez 🛡</a>"""
     STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
