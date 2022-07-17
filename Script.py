@@ -5,17 +5,19 @@ class script(object):
 
 Created By <a href=https://t.me/syd_xyz>Mr. SYD😎</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂.
+𝙷𝚘𝚙𝚒𝚗𝚐 🤗 𝚢𝚘𝚞 𝚠𝚘𝚞𝚕𝚍 𝚕𝚒𝚔𝚎 𝙾𝚞𝚛 𝙱𝚘𝚝"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Syd_XYZ>Mr. SYD🔥</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href=https://t.me/Parallel_Cinemas> Uploaded Channel</a>
-✯ 𝚄𝚙𝚍𝚊𝚝𝚎𝚜 : <a href=https://t.me/Mod_Moviezx>Mod🦍</a>
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: <a href=https://t.me/ModMoviez>😎😎</a>
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href=https://t.me/Parallel_Cinemas> Channel</a>
+✯ 𝚄𝚙𝚍𝚊𝚝𝚎𝚜 : <a href=https://t.me/Mod_Moviezx> Mod Moviez X😬</a>
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: <a href=https://t.me/Syd_Xyz> V1.1</a> [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://github.com/EvamariaTG/EvaMaria  
+- Want To Create A Bot Like Me😎
+ <b> For Free </b> . 
+- Source  
 
 <b>DEVS:</b>
 - <a href=https://t.me/SYd_Xyz>Mod 😍 Moviezx</a>"""
