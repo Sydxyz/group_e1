@@ -111,7 +111,7 @@ async def start(client, message):
             reply_markup=reply_markup,
             parse_mode='html'
         )
-     if message.command != "about":
+     if message.command = "about":
       buttons = [[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
