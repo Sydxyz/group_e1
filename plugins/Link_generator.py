@@ -56,7 +56,3 @@ async def link_generator(client: Client, message: Message):
     link = f"https://t.me/{client.username}?start={base64_string}"
     reply_markup = InlineKeyboardMarkup([[InlineKeyboardButton("🔁 Share URL", url=f'https://telegram.me/share/url?url={link}')]])
     await channel_message.reply_text(f"<b>Here is your link</b>\n\n{link}", quote=True, reply_markup=reply_markup)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
